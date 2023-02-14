@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4aa1d1c6-490b-4d13-8587-a44104198419" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +22,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2LivM9SA0y1l0CSXaJWPQKiwxUN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -43,6 +49,18 @@
       <option name="presentableId" value="Default" />
       <updated>1676366680638</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1676367241926</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676367241926</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
