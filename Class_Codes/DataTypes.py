@@ -10,10 +10,14 @@ print(type(0x69)) # this is hexadecimal (hexadecimal prefix is 0x or 0X)
 
 # 2. float:
 #           a. it contains all the decimal values and any kind of decimal values
-#           b. similar to int in float as well it does not contains any upperlimit for the size to be stored in python
-
+#           b. unlike to int in python, float has limit of 308 decimal places to the right in a 64 bit system
+#           c. int operations are faster than that of float
+#           d. Also in python, for float there even exists a lower limit as well and that is 2.225e-308 which is 308 decimals to the right
+#           e. Also anything more than that of upper limit of float in python is inferred by string "inf" - infinity
 # Examples in code:
 print(type(10.75))
+print(type(1.76e307))
+print(1.85e308) # exceeds the boundary limit of maximum float thus "inf"
 
 
 
